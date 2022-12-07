@@ -1,7 +1,7 @@
-<p>Clarusway<img align="right"
-  src="/Untitled.png"  width="15px"></p>
+# Project: Task Tracker (RP-03)
 
-# Project-003 : Task Tracker (RP-03)
+<p>Clarusway<img align="right"
+  src="/Untitled.png"  width="1500px"></p>
 
 ## Description
 
