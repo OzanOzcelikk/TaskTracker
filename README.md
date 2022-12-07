@@ -1,5 +1,5 @@
 <p>Clarusway<img align="right"
-  src="/Untitled.png"  width="15px"></p>
+  src="/Untitled.png"  width="1500px"></p>
 
 # Project-003 : Task Tracker (RP-03)
 
